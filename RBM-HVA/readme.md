@@ -1,1 +1,1 @@
-Contains the datas, codes and Report of the comparative analysis on the performance of RBM with HVA.
+Contains the datas, codes and Report of the comparative analysis on the performance of RBM with HVA (Hamiltonian Variational Ansatz).
